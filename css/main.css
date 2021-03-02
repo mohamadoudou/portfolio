@@ -222,6 +222,11 @@
   padding-bottom: 1rem;
 }
 
+.about__bio p {
+  line-height: 1.5rem;
+  font-size: 20px;
+}
+
 .about .jobs {
   width: 60vw;
   margin: 2rem auto 0 auto;
